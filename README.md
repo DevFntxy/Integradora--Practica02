@@ -67,4 +67,27 @@ Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara
 Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  </p>
 
 
+### 4. Texto enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+
+Si el texto que deseas enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación 
+
+##### Texto en negrita (BOLD)
+
+Para poder poner el texto en negrita, este deberá ser encerrado entre dobles""
+
+Ejemplo:
+
+Texto Texto Texto  Texto  Texto  Texto  Texto  Texto  Texto  ""Texto Importante""  Texto  Texto  Texto  Texto  Texto  Texto  Texto 
+
+##### Texto en cursiva (ITALIC)
+
+Algunas veces es necesario resaltar algunas secciones o textos en cursiva para que el lector detecte el texto importante, dentro del maquetado con el estándar Markdown lo podemos realizar ubicando el texto entre *(asteriscos)
+
+Ejemplo: 
+
+Texto Texto Texto  Texto  Texto  Texto  Texto  Texto  Texto  *Texto Cursivo*  Texto  Texto  Texto  Texto  Texto  Texto  Texto
+
+##### Texto en negrita y cursiva (BOLD & ITALIC)
+
+De igual manera podemos unir ambos estilos **Negrita**  y *Cursiva* para resaltar los textos que consideremos importantes dentro de la documentación de nuestro proyecto de software
 
