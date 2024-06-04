@@ -91,3 +91,4 @@ Texto Texto Texto  Texto  Texto  Texto  Texto  Texto  Texto  *Texto Cursivo*  Te
 
 De igual manera podemos unir ambos estilos **Negrita**  y *Cursiva* para resaltar los textos que consideremos importantes dentro de la documentación de nuestro proyecto de software
 
+Texto Texto Texto  Texto  Texto  Texto  Texto  Texto  Texto  ***Negita y Cursiva***  Texto  Texto  Texto  Texto  Texto  Texto  Texto 
