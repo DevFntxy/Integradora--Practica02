@@ -85,3 +85,15 @@ Algunas veces necesitaremos subrayas texto dentro de la documentación, para ell
 EJEMPLO:
 
 Texto Textl Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins> Texto Subrayado</ins> Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+### 5. Cuadros para codigos o reseñas (BLOCKQUOTES)
+
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalacion, configuracion y/o inicializacion o mostra
+secciones de codigo fuente. Se maqueta iniciando el texto con un simbolo de mayor que (\>)
+
+**Ejemplo**
+Para listar las carpetas y archivos en desde una terminal de sistema operativo Windows debemos ingresar el comando:
+
+>C:/dir
+
+Despues oprimimos la tecla "Enter"
