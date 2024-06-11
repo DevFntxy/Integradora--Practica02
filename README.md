@@ -97,3 +97,19 @@ Para listar las carpetas y archivos en desde una terminal de sistema operativo W
 >C:/dir
 
 Despues oprimimos la tecla "Enter"
+
+Tambien podemos agregar texto multilinea 
+
+**Ejemplo**
+
+>Aqui se ingresan un conjunto de instrucciones para explicar al usuario, como instalar el software que hemos diseñado
+
+Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del tecto a documentar-
+
+*Ejemplo: Pasos para instalar la Base de Datos: *
+
+> - Descargar MySQl Server del Sitio Oficial
+> - Intalar el sistema gestor de base de datos, definiendo el puerto y contraseña para el usuario "**root**"
+> - Descargamos el archivo de respaldo de la base de datos (.sql) 
+> -  Restauramos la Base de Datos usando el comando "Mysql"
+
