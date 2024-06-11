@@ -113,3 +113,15 @@ Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter 
 > - Descargamos el archivo de respaldo de la base de datos (.sql) 
 > -  Restauramos la Base de Datos usando el comando "Mysql"
 
+### 7. Ligas e hipervinculos 
+
+Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes [], inmediatamente despues 
+podremos la liga de referencia entre parentecis
+
+*Ejemplo: * Mi buscador favorito es [Google](https://www.google.com.mx/?hl=es)
+
+Pero si deseamos poner solo las ligas directas o un correo electronico podemos utilizar los simbolos <>
+
+Documentacion creada por: *Derek Sesni Carreño*
+
+<dereksesni6@gmail.com>
