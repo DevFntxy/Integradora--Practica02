@@ -48,23 +48,11 @@ Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado
 Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
 Este parrafo esta alineado a la izquierda por defecto Este parrafo esta alineado a la izquierda por defecto 
 
-<p aling="rigth">
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion </p>
+<p aling="rigth">Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacionEste parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacionEste parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacionEste parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacionEste parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizand la propiedad de alineacion </p>
 
-<p aling= "center">
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion
-Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion </p>
+<p aling= "center">Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacionEste parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacionEste parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacionEste parrafo esta alineado a la derecha utilizando la propiedad de alineacion Este parrafo esta alineado a la derecha utilizando la propiedad de alineacion </p>
 
-<p aling= "justify">
-Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  
-Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  
-Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  </p>
+<p aling= "justify">Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion Este parrafo estara utilizando la propiedad de la alineacion  Este parrafo estara utilizando la propiedad de la alineacion  </p>
 
 
 ### 4. Texto enfatizado (BOLD, ITALIC, BOLD/ITALIC)
