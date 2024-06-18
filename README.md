@@ -122,7 +122,7 @@ podremos la liga de referencia entre parentecis
 
 Pero si deseamos poner solo las ligas directas o un correo electronico podemos utilizar los simbolos <>
 
-Documentacion creada por: *Derek Sesni Carreño*
+Documentacion creada por: *Derek Sesni Carreño*<dereksesni6@gmail.com>
 
 
 ### 8. Tabla (TABLES)
@@ -150,4 +150,4 @@ En caso de necesitar la fusión de celdas en columnas usaremos la propiedad cols
 |              | Fila 5 Celda 2| Fila 5 Celda 3| Fila 5 Celda 4|
 |Fila 6 Celda 1| Fila 6 Celda 2| Fila 6 Celda 3| Fila 6 Celda 4|
 
-Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas, debemoss utilizar el estándar HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan". <dereksesni6@gmail.com>
+Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas, debemoss utilizar el estándar HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan". 
