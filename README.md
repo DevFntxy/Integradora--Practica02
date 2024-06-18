@@ -105,7 +105,7 @@ Tambien podemos agregar texto multilinea
 
 Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del tecto a documentar-
 
-*Ejemplo: Pasos para instalar la Base de Datos: *
+**Ejemplo:** Pasos para instalar la Base de Datos:
 
 > - Descargar MySQl Server del Sitio Oficial
 > - Intalar el sistema gestor de base de datos, definiendo el puerto y contraseña para el usuario "**root**"
