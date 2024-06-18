@@ -152,7 +152,9 @@ En caso de necesitar la fusión de celdas en columnas usaremos la propiedad cols
 
 Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas, debemoss utilizar el estándar HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan". 
 
-### 9.- Logotipos proyecto
+### 9.- Imagen
+
+Como los documentos suelen llevar imagenes llamativas se necesitabagregar imagenes para hacer mas claro y entendible 
 Logo Empresa
 ![](https://github.com/DevFntxy/Integradora--Practica02/blob/main/Logo1.jpg)
 Logo Marca
