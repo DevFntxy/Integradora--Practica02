@@ -144,7 +144,7 @@ En caso de necesitar la fusión de celdas en columnas usaremos la propiedad cols
 |Encabezado 1| Encabezado 2| Encabezado 3| Encabezado 4|
 |----------------------| ------------------------| -----------------------|----------------------|
 |Fila 1 Celda 1| Fila 1 Celda 2| Fila 1 Celda 3| Fila 1 Celda 4|
-|Fila 2 Celda 1<td colspan> Fila 2 Celda 2| Fila 2 Celda 3|
+|Fila 2 Celda 1|Fila 2 Celda 2| Fila 2 Celda 3|
 |Fila 3 Celda 1| Fila 3 Celda 2| Fila 3 Celda 3| Fila 3 Celda 4|
 |              | Fila 4 Celda 2| Fila 4 Celda 3| Fila 4 Celda 4|
 |              | Fila 5 Celda 2| Fila 5 Celda 3| Fila 5 Celda 4|
