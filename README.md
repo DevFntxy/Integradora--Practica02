@@ -18,8 +18,7 @@ Ejemplo:
 
 ### 2. Separados (SEPARATORS) - PRÁCTICA 03 
 Si desea marcar una separación más visual de contenidos podemos utlizarlos indicando tres caracteres de "_" continuos, en el maquetado
-
-EJEMPLO:
+**EJEMPLO:**
 "Esto es similar a un tag de <HR> en HTML.
 
 
@@ -28,7 +27,7 @@ EJEMPLO:
 ### 3. Párrafos (PARAGRPAHS)
 Son utilizados para poder presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
 
-EJEMPLO: 
+**EJEMPLO:**
 
 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1.
 
@@ -58,7 +57,7 @@ Si el texto que deseamos enfatizar se encuentra en un párrafo, podemos utilizar
 ##### Texto en Negrita (BOLD) 
 Para poder poner el texto en negrita, se deberá ser encerrado entre dobles * *
 
-EJEMPLO: 
+**EJEMPLO:**
 
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
@@ -74,7 +73,7 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Te
 
 De igual manera podemos unir ambos estilos **Negrita** y *Cursiva* para resaltar los textos que consideremos importantes dentro de la documentación de nuestros proyectos de Software, utilizando un triple * (asterisco).
 
-EJEMPLO: 
+**EJEMPLO:**
 
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto en Negrita y Cursiva*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
@@ -82,7 +81,7 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Te
 
 Algunas veces necesitaremos subrayas texto dentro de la documentación, para ello, si bien Markdown no tiene un atajo o codificación rápida podemos utilizar el estilo estándar de HTML usando el tag <ins> y cerrando con </ins> 
 
-EJEMPLO:
+**EJEMPLO:**
 
 Texto Textl Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins> Texto Subrayado</ins> Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 
@@ -118,7 +117,7 @@ Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter 
 Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes [], inmediatamente despues 
 podremos la liga de referencia entre parentecis
 
-*Ejemplo: * Mi buscador favorito es [Google](https://www.google.com.mx/?hl=es)
+**EJEMPLO:** Mi buscador favorito es [Google](https://www.google.com.mx/?hl=es)
 
 Pero si deseamos poner solo las ligas directas o un correo electronico podemos utilizar los simbolos <>
 
